@@ -1,4 +1,4 @@
-# idash2018BlockchainTrack
+# iDASH-2018-Blockchain-Track
 Track 1: Blockchain-based immutable logging and querying for cross-site genomic dataset access audit trial
 
 The goal of this track is to develop blockchain-based ledgering solutions to log and query the user activities of accessing genomic datasets (e.g., GTEx) across multiple sites.
